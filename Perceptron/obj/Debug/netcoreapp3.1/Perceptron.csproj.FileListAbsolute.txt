@@ -1,0 +1,13 @@
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.exe
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.deps.json
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.json
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.dev.json
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csprojAssemblyReference.cache
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfoInputs.cache
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfo.cs
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\hitma\Desktop\portfolio\nai2\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.genruntimeconfig.cache
